@@ -2,7 +2,16 @@ team : Lions
 
 manager : Mary
 
+coach : grate 
+
+
 Members:
 - Thomas
 - Karen
+<<<<<<< HEAD
 - VVVVVV
+=======
+- VVVVVV
+- VVVVVVxxxxxxxx
+-sssssssssssssss
+>>>>>>> add-coach
